@@ -8,8 +8,8 @@ Embed Guggy's GIF/Memes editor in your website with a super-small and simple SDK
 1. Obtain a publisher ID from us (contact us at registration@guggy.com).
 2. Embed the JS file in your website.
  
-    ```Dev - https://rawgit.com/Guggyco/publishersdk/master/guggy-publisher-sdk.min.dev.js
-    ```Prod - TBD
+    Dev - ```https://rawgit.com/Guggyco/publishersdk/master/guggy-publisher-sdk.min.dev.js
+    Prod - ```TBD
 
 3. Initialize the SDK on a button in your site - see example below
 
