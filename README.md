@@ -22,7 +22,7 @@ Embed Guggy's GIF/Memes editor in your website with a super-small and simple SDK
   function yourOnLoadFunction() {
   
     Guggy.init(
-            'openGuggyButtonId' // An ID of a button which will trigger Guggy to open,
+            'openGuggyButtonId' // An ID of a button on your website which will trigger Guggy to open,
             'yourPublisherId',
             function (post) {
   
@@ -36,3 +36,9 @@ Embed Guggy's GIF/Memes editor in your website with a super-small and simple SDK
   }
 
 ```
+
+
+# License of usage and code
+---------------------------
+This SDK is Guggy's property and may not be distributed or modified without written consent.
+Usage of the SDK is permitted only for approved publishers who have obtained a publisher ID from Guggy.
