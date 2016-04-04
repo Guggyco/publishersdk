@@ -1,7 +1,7 @@
 # Guggy Publisher SDK
 -------------------
 
-Embed Guggy's GIF/Memes editor in your website with a super-small and simple SDK.
+Embed Guggy's GIF/Memes editor in your website with a simple SDK.
 
 ### What do you need to start?
 
