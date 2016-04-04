@@ -30,7 +30,7 @@ Embed Guggy's GIF/Memes editor in your website with a simple SDK.
   
             },
             false, // Is Right-To-Left layout
-            'he' // Language (either 'en' or 'he')
+            'en' // Language (either 'en' or 'he')
     );
   
   }
