@@ -38,7 +38,7 @@ Embed Guggy's GIF/Memes editor in your website with a super-small and simple SDK
 ```
 
 
-# License of usage and code
+## License of usage and code
 ---------------------------
 This SDK is Guggy's property and may not be distributed or modified without written consent.
 Usage of the SDK is permitted only for approved publishers who have obtained a publisher ID from Guggy.
